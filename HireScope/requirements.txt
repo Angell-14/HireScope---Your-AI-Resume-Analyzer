@@ -1,0 +1,21 @@
+This project relies on a set of powerful Python libraries to ensure smooth data processing, resume parsing, visualizations, and an interactive user interface. Below is the core technology stack used:
+
+pdfminer3 – For extracting and processing text from PDF resumes.
+
+pyresparser – Enables intelligent resume parsing and structured information extraction.
+
+streamlit – Powers the interactive and user-friendly web application interface.
+
+pandas – Used for efficient data manipulation and analysis.
+
+pafy – Helps retrieve metadata and stream URLs from YouTube resources.
+
+plotly – Generates dynamic and visually appealing charts for insights and analytics.
+
+pymysql – Facilitates seamless connection and operations with MySQL databases.
+
+streamlit-tags – Adds tag-style input components to enhance the UX in Streamlit apps.
+
+Pillow – Handles image processing tasks such as resizing and optimization.
+
+nltk – Provides natural language processing capabilities for text analysis.
